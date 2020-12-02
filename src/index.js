@@ -7,6 +7,11 @@ import "./styles/index.scss";
 import "./styles/index.css";
 import "./styles/normalize.css";
 
+// Import Images
+import paperIcon from "./images/paper.svg";
+import rockIcon from "./images/rock.svg";
+import scissorsIcons from "./images/scissors.svg";
+
 // DOM Selection
 const finalResult = document.querySelector("#final-result");
 const roundsNumberDiv = document.querySelector("#rounds-number");
@@ -15,6 +20,13 @@ const roundResult2 = document.querySelector("#round-result-2");
 const currentScore = document.querySelector("#current-score");
 const choiceButtons = document.querySelectorAll(".choice-buttons");
 const newGameButton = document.querySelector("#new-game");
+
+// Set Images src
+const allImages = document.querySelectorAll("img");
+allImages[0].src = paperIcon;
+allImages[1].src = rockIcon;
+allImages[2].src = scissorsIcons;
+
 
 // Initialize variables
 let computerScore;
