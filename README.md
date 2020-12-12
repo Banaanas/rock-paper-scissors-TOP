@@ -33,7 +33,7 @@
 
 <h1 align="center">Rock-Paper-Scissors</h1>
 
-<p align="center">✂️ 📃 ✂️</p>
+<p align="center">🗿️ 📃 ✂️</p>
 
 <p align="center">
     Cool and smooth Rock-Paper-Scissors Game.<br/><br/>
