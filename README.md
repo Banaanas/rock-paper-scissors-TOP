@@ -61,7 +61,7 @@ Rock-Paper-Scissors Game achieved as part of <a href="https://www.theodinproject
 
 <p align="center">
   <a href="https://rock-paper-scissors.cyrilo.app/">
-    <img src="src/images/README/animated-gif-1.gif" alt="Animated Gif" width="455" height="400">
+    <img src="./src/images/README/animated-gif-1.gif" alt="Animated Gif" width="455" height="400">
   </a>
 </p>
 
@@ -74,7 +74,7 @@ Rock-Paper-Scissors Game achieved as part of <a href="https://www.theodinproject
 
 <p align="center">
   <a href="https://rock-paper-scissors.cyrilo.app/">
-    <img src="src/images/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
+    <img src="./sarc/images/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
   </a>
 </p>
 
