@@ -69,7 +69,7 @@ Rock-Paper-Scissors Game achieved as part of <a href="https://www.theodinproject
 #### Principal Features
 - Human Player vs. Computer Player ;
 - 5 Rounds Win ;
-- Responsive design ;
+- Responsive Design ;
 - First JavaScript Project ever!
 
 <p align="center">
