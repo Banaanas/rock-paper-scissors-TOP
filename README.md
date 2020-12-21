@@ -152,8 +152,6 @@ Project Link: [https://github.com/Banaanas/rock-paper-scissors-TOP](https://gith
 ## Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/)
-- [The Coding Train](https://www.youtube.com/watch?v=trKjYdBASyQ&vl)
-- [FreeCodeCamp](https://www.youtube.com/watch?v=P2TcQ3h0ipQ&t)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
