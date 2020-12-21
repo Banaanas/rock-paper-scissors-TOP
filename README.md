@@ -54,6 +54,7 @@
 - [License](#license)
 - [Contact](#contact)
 
+
 <!-- ABOUT THE PROJECT -->
 
 ## About the Project
@@ -157,6 +158,7 @@ Project Link: [https://github.com/Banaanas/rock-paper-scissors-TOP](https://gith
 ## Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
