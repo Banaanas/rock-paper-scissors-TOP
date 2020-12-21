@@ -54,7 +54,7 @@
 - [License](#license)
 - [Contact](#contact)
 
-<!-- TABLE OF CONTENTS -->
+<!-- ABOUT THE PROJECT -->
 
 ## About the Project
 Rock-Paper-Scissors Game achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript Curriculum</a>.
@@ -65,6 +65,8 @@ Rock-Paper-Scissors Game achieved as part of <a href="https://www.theodinproject
   </a>
 </p>
 
+
+<!-- PRINCIPAL FEATURES -->
 
 #### Principal Features
 - Human Player vs. Computer Player ;
@@ -77,6 +79,9 @@ Rock-Paper-Scissors Game achieved as part of <a href="https://www.theodinproject
     <img src="./src/images/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
   </a>
 </p>
+
+
+<!-- BUILT WITH -->
 
 #### Built With
 
