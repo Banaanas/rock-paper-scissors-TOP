@@ -2,9 +2,8 @@
 *** Useful links for the README.md file's redaction
 *** https://shields.io/ - Shields
 *** https://www.webfx.com/tools/emoji-cheat-sheet/ - Emojis
-*** https://github.com/othneildrew/Best-README-Template - General Inspiration for this file 
+*** https://github.com/othneildrew/Best-README-Template - General Inspiration for this file
 -->
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -17,9 +16,9 @@
 *** https://shields.io/.
 -->
 
-[![Personal Website][personal-website-shield]][personal-website-url][![LinkedIn][linkedin-shield]][linkedIn-url]
+[![Personal Website][personal-website-shield]][personal-website-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 [![MIT License][license-shield]][license-url]
-
 
 <br/>
 <!-- PROJECT LOGO -->
@@ -39,7 +38,6 @@
     <a href="https://rock-paper-scissors.cyrilo.app/">:computer: Live Demo :eyes:</a><br/><br/>
 </p>
 
-
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
@@ -53,10 +51,10 @@
 - [License](#license)
 - [Contact](#contact)
 
-
 <!-- ABOUT THE PROJECT -->
 
 ## About the Project
+
 Rock-Paper-Scissors Game achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript Curriculum</a>.
 
 <p align="center">
@@ -65,10 +63,10 @@ Rock-Paper-Scissors Game achieved as part of <a href="https://www.theodinproject
   </a>
 </p>
 
-
 <!-- PRINCIPAL FEATURES -->
 
 #### Principal Features
+
 - Human Player vs. Computer Player ;
 - 5 Rounds Win ;
 - Responsive Design ;
@@ -79,7 +77,6 @@ Rock-Paper-Scissors Game achieved as part of <a href="https://www.theodinproject
     <img src="./src/images/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
   </a>
 </p>
-
 
 <!-- BUILT WITH -->
 
@@ -100,7 +97,6 @@ Flexbox - Media Queries - Animation
 - [core-js](https://github.com/zloirock/core-js)
 - [ESLint](https://eslint.org/)
 - [stylelint](https://stylelint.io/)
-
 
 <!-- GETTING STARTED -->
 
@@ -126,22 +122,22 @@ npm install
 ```
 
 3 - Development Server
+
 ```sh
 npm run start
 ```
 
 4 - Production build
+
 ```sh
 npm run build
 ```
-
 
 <!-- LICENSE -->
 
 ## License
 
 Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for more information.
-
 
 <!-- CONTACT -->
 
@@ -151,13 +147,11 @@ Cyrilo - [Personal Website](https://cyrilo.dev) - [Mail](mailto:cyrilo.dev@gmail
 
 Project Link: [https://github.com/Banaanas/rock-paper-scissors-TOP](https://github.com/Banaanas/rock-paper-scissors-TOP)
 
-
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/)
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
