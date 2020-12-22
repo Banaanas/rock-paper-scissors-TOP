@@ -43,10 +43,10 @@ h1 {
   justify-content: center;
   width: 90%;
   max-width: 900px;
-  padding: .5rem;
+  padding: 0.5rem;
   color: var(--primary-dark-color);
   font-size: 1.8rem !important;
-  letter-spacing: .1rem;
+  letter-spacing: 0.1rem;
   text-align: center;
   text-shadow: 1px 1px var(--primary-text-color);
   background-color: var(--secondary-text-color);
@@ -95,9 +95,8 @@ h1 {
 }
 
 #beats-word {
-  margin: 0 .7rem;
+  margin: 0 0.7rem;
   color: var(--primary-text-color);
-
 }
 
 #round-result-2 {
@@ -218,7 +217,6 @@ button:disabled:hover {
     font-size: 1.6rem;
   }
 }
-
 
 /* GITHUB BANNER */
 

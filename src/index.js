@@ -26,7 +26,6 @@ allImages[0].src = paperIcon;
 allImages[1].src = rockIcon;
 allImages[2].src = scissorsIcons;
 
-
 // Initialize variables
 let computerScore;
 let humanScore;
