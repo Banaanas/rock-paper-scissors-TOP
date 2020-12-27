@@ -179,4 +179,4 @@ Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for mor
 [linkedin-shield]: https://img.shields.io/badge/-Cyril-blue?style=flat&logo=linkedin&
 [linkedin-url]: https://www.linkedin.com/in/cyril-dev/
 [license-shield]: https://img.shields.io/badge/License-MIT-limegreen.svg
-[license-url]: LICENSEa
+[license-url]: LICENSE
