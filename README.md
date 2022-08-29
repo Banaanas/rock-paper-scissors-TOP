@@ -89,20 +89,9 @@ Rock-Paper-Scissors Game achieved as part of <a href="https://www.theodinproject
 #### Built With
 
 - [Vanilla JavaScript](http://vanilla-js.com/)
-
-ES6 - DOM Manipulation
-:relaxed: First JavaScript Project ever! :blush:
-
 - [HTML5](https://www.w3.org/html/)
 - [CSS3](https://www.w3.org/Style/CSS/Overview.html)
-
-Flexbox - Media Queries - Animation
-
 - [Webpack](https://webpack.js.org/)
-- [Babel](https://babeljs.io/)
-- [core-js](https://github.com/zloirock/core-js)
-- [ESLint](https://eslint.org/)
-- [stylelint](https://stylelint.io/)
 
 
 <!-- GETTING STARTED -->
