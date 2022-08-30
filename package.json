@@ -5,20 +5,13 @@
   "author": "Cyrilo",
   "main": "index.js",
   "scripts": {
-    "build": "cross-env NODE_ENV=production webpack --config config/webpack.prod.js",
     "start": "cross-env NODE_ENV=development webpack serve --config config/webpack.dev.js",
-    "test": "jest",
-    "test-watch": "jest --watchAll"
-  },
-  "lint-staged": {
-    "*.css": "stylelint --fix",
-    "*.js": "eslint --cache --fix",
-    "*.{js,css,md}": "prettier --write"
+    "build": "cross-env NODE_ENV=production webpack --config config/webpack.prod.js",
+    "lint": "eslint 'src/**/*.js' || true",
+    "prettify": "prettier --write 'src/**/*.js'"
   },
   "dependencies": {
-    "core-js": "^3.8.1",
-    "postcss-import": "^14.0.0",
-    "regenerator-runtime": "^0.13.7"
+    "postcss-import": "^14.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.18.13",
@@ -39,7 +32,7 @@
     "eslint-import-resolver-webpack": "^0.13.2",
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^2.6.1",
-    "sass": "^1.54.5",
+    "sass": "^1.54.6",
     "postcss-loader": "^7.0.1",
     "postcss-preset-env": "^7.8.0",
     "prettier": "^2.7.1",
